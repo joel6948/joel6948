@@ -68,7 +68,7 @@ improving my skills through practical projects.
 
 ## 🌐 Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Joy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-joel-joy)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Joel%20Joy-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/joel6948)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Joel%20Joy-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jjoy6948)
 [![GitHub](https://img.shields.io/badge/GitHub-joel6948-181717?style=flat&logo=github&logoColor=white)](https://github.com/joel6948)
 
 ---
