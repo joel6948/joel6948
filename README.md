@@ -26,10 +26,14 @@ improving my skills through practical projects.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ### Application Security
+### Application Security
 ![Fortify](https://img.shields.io/badge/Fortify-SAST-blue?style=flat)
 ![SAST](https://img.shields.io/badge/SAST-Testing-orange?style=flat)
 ![DAST](https://img.shields.io/badge/DAST-Testing-orange?style=flat)
 ![OWASP](https://img.shields.io/badge/OWASP-Top10-black?style=flat)
+![Security Assessment](https://img.shields.io/badge/Security-Assessment-red?style=flat)
+![Security Testing](https://img.shields.io/badge/Security-Testing-darkred?style=flat)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability-Assessment-critical?style=flat)
 
 ### SOC & Threat Intel
 ![QRadar](https://img.shields.io/badge/QRadar-SIEM-052FAD?style=flat&logo=ibm&logoColor=white)
