@@ -58,7 +58,7 @@ improving my skills through practical projects.
 | [File Hash Checker](https://github.com/joel6948/File-Hash_Checker) | Generates MD5, SHA1, SHA256 hashes for malware analysis |
 | [Port Scanner](https://github.com/joel6948/port-scanner) | Scans hosts for open ports and attack surface analysis |
 | [Source-Code-scanner](https://github.com/joel6948/Source-Code-scanner) | Detects Specific vulnerbilities in the source code |
-| [Phishing Analyser](https://github.com/joel6948/phishing-analyser) | Analyses email headers for phishing indicators |
+| [Phishing Analyser](https://github.com/joel6948/Phishing-Mail-Analyzer) | Analyses email headers for phishing indicators |
 | [VirusTotal Checker](https://github.com/joel6948/virustotal-checker) | Checks IPs and hashes against 70+ security vendors |
 | [SOC Pipeline](https://github.com/joel6948/soc-pipeline) | Automated log analysis and threat intel pipeline |
 | [YARA Scanner](https://github.com/joel6948/yara-rules) | Detects malware patterns using YARA rules |
