@@ -52,16 +52,13 @@ improving my skills through practical projects.
 
 ---
 
-## 🔧 Security Tools I've Built
 | Tool | Description |
 |------|-------------|
-| [File Hash Checker](https://github.com/joel6948/File-Hash_Checker) | Generates MD5, SHA1, SHA256 hashes for malware analysis |
-| [Port Scanner](https://github.com/joel6948/port-scanner) | Scans hosts for open ports and attack surface analysis |
-| [Source-Code-scanner](https://github.com/joel6948/Source-Code-scanner) | Detects Specific vulnerbilities in the source code |
-| [Phishing Analyser](https://github.com/joel6948/Phishing-Mail-Analyzer) | Analyses email headers for phishing indicators |
-| [VirusTotal Checker](https://github.com/joel6948/virustotal-checker) | Checks IPs and hashes against 70+ security vendors |
-| [SOC Pipeline](https://github.com/joel6948/soc-pipeline) | Automated log analysis and threat intel pipeline |
-| [YARA Scanner](https://github.com/joel6948/yara-rules) | Detects malware patterns using YARA rules |
+| [CVSS Calculator](https://joel6948.github.io/cvss-calculator/) | Live web tool for calculating CVSS v3.1 severity scores with color coded badges and vector strings |
+| [SOC Pipeline](https://github.com/joel6948/soc-pipeline) | Automated pipeline that parses logs, extracts IPs and enriches them with VirusTotal threat intelligence |
+| [Source Code Review Tool](https://github.com/joel6948/source-code-review-tool) | Static analysis tool detecting hardcoded credentials, SQL injection, dangerous functions and weak crypto in source code |
+| [YARA Scanner](https://github.com/joel6948/yara-rules) | Malware detection tool using YARA rules to identify ransomware and RAT patterns in files |
+| [VirusTotal Checker](https://github.com/joel6948/virustotal-checker) | Checks IPs and file hashes against 70+ security vendors via VirusTotal API |
 
 ---
 
