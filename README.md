@@ -55,7 +55,7 @@ improving my skills through practical projects.
 ## 🔧 Security Tools I've Built
 | Tool | Description |
 |------|-------------|
-| [File Hash Checker](https://github.com/joel6948/file-hash-checker) | Generates MD5, SHA1, SHA256 hashes for malware analysis |
+| [File Hash Checker](https://github.com/joel6948/File-Hash_Checker) | Generates MD5, SHA1, SHA256 hashes for malware analysis |
 | [Port Scanner](https://github.com/joel6948/port-scanner) | Scans hosts for open ports and attack surface analysis |
 | [Source-Code-scanner](https://github.com/joel6948/Source-Code-scanner) | Detects Specific vulnerbilities in the source code |
 | [Phishing Analyser](https://github.com/joel6948/phishing-analyser) | Analyses email headers for phishing indicators |
