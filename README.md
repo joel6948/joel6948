@@ -56,7 +56,7 @@ improving my skills through practical projects.
 |------|-------------|
 | [CVSS Calculator](https://joel6948.github.io/cvss-calculator/) | Live web tool for calculating CVSS v3.1 severity scores with color coded badges and vector strings |
 | [SOC Pipeline](https://github.com/joel6948/soc-pipeline) | Automated pipeline that parses logs, extracts IPs and enriches them with VirusTotal threat intelligence |
-| [Source Code Review Tool](https://github.com/joel6948/source-code-review-tool) | Static analysis tool detecting hardcoded credentials, SQL injection, dangerous functions and weak crypto in source code |
+| [Source Code Review Tool](https://github.com/joel6948/Source-Code-scanner) | Static analysis tool detecting hardcoded credentials, SQL injection, dangerous functions and weak crypto in source code |
 | [YARA Scanner](https://github.com/joel6948/yara-rules) | Malware detection tool using YARA rules to identify ransomware and RAT patterns in files |
 | [VirusTotal Checker](https://github.com/joel6948/virustotal-checker) | Checks IPs and file hashes against 70+ security vendors via VirusTotal API |
 
